@@ -1,2 +1,4 @@
-# Python
-Hello World! Repositório destinado para meus projetos em python3.
+# Python3
+Hello World! 
+
+Repositório destinado para publicar meus projetos em python3.
